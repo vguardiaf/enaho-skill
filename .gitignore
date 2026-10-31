@@ -1,0 +1,4 @@
+datos/
+*.parquet
+.venv/
+__pycache__/
